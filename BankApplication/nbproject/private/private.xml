@@ -3,9 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/src/bankapplication/BankApplication.java</file>
+            <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/test/bankapplication/AccountTest.java</file>
             <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/src/bankapplication/ListOfAccounts.java</file>
+            <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/src/bankapplication/BankApplication.java</file>
+            <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/test/bankapplication/ListOfAccountsTest.java</file>
             <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/src/bankapplication/CheckingAccount.java</file>
+            <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/test/bankapplication/CheckingAccountTest.java</file>
             <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/src/bankapplication/Account.java</file>
             <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/src/bankapplication/SavingsAccount.java</file>
             <file>file:/home/jomozoon/cs203/JUnitLab/BankApplication/src/bankapplication/BankAppGUI.java</file>
